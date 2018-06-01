@@ -870,3 +870,5 @@ Client/Library/AssetImportState
 Client/Library/assetDatabase3
 Client/Library/AnnotationManager
 Client/Library/TilemapEditorUserSettings.asset
+/Client/Library/EditorUserSettings.asset
+/Client/Library/BuildSettings.asset
